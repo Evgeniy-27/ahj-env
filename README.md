@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bofjv19u17b1hiao?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-env)
 
-[GitHub Pages](https://evgeniy-27.github.io/ahj-env/)
+[GitHub Pages](https://evgeniy-27.github.io/ahj-env)
 
 
 ### Continuous Deployment
