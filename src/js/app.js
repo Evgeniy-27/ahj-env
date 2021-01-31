@@ -5,8 +5,8 @@
 // comment this to pass build
 
 // for demonstration purpose only
-export default function demo(value) {
+/*export default function demo(value) {
   return value;
-}
+}*/
 
 console.log('app.js included');
